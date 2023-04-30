@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/PhotoAlbum/static/js/main.8bba05e9.js",
+    "index.html": "/PhotoAlbum/index.html",
+    "main.8bba05e9.js.map": "/PhotoAlbum/static/js/main.8bba05e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8bba05e9.js"
+  ]
+}
