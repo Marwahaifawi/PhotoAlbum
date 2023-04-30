@@ -6,7 +6,7 @@ const outputPath = path.join(process.cwd(), 'build');
 ghpages.publish(outputPath, {
   branch: 'gh-pages',
   dotfiles: true,
-  repo: `https://github.com/<username>/<repository-name>.git`,
+  repo: `https://github.com/marwahaifawi/PhotoAlbum`,
 }, (err) => {
   if (err) {
     console.error('Error deploying to GitHub Pages', err);
