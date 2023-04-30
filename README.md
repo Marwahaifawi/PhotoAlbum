@@ -10,8 +10,8 @@ To run the project locally, clone the repository and install the dependencies:
 
 
 ```bash
-git clone https://github.com/username/photo-cards-album-page.git
-cd photo-cards-album-page
+git clone https://github.com/Marwahaifawi/PhotoAlbum.git
+cd PhotoAlbum
 npm install
 
 ```
